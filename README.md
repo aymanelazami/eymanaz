@@ -8,4 +8,4 @@
 ![Github Languages](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)
 ![Github Languages](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff)
 ![Github Languages](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=fff)
-#2496ED
+![Github Languages](https://img.shields.io/badge/-Vu.js-4FC08D?logo=Vu.js&logoColor=fff)
